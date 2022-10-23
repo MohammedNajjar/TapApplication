@@ -1,0 +1,26 @@
+<resources>
+    <string name="app_name">TabApplication</string>
+    <string name="Into_next">التالي</string>
+    <string name="Into_title1">مرحباً بك !</string>
+    <string name="Into_title2">ثقي بنا !</string>
+    <string name="Into_title3">لأجلك ِ !</string>
+    <string name="Into_description1">تطبيق مساحتنا يساعدك في الوصول إلى أقرب مكان لمزودي الخدمات في مؤسسات قطاع غزة ،والتواصل معهم..</string>
+    <string name="Into_description2">يلتزم تطبيقنا بالحفاظ على سرية معلوماتك ،كما ونؤكد على حماية المستخدمات وأمنهنّ..</string>
+    <string name="Into_description3">معاً لحياة أفضل ! \nجاهزة للبدء ..!</string>
+    <string name="preference_file_key">preference_app</string>
+    <string name="title_activity_ulogin">ULoginActivity</string>
+    <!-- Strings used for fragments for navigation -->
+    <string name="first_fragment_label">First Fragment</string>
+    <string name="second_fragment_label">Second Fragment</string>
+    <string name="next">Next</string>
+    <string name="previous">Previous</string>
+
+    <string name="hello_first_fragment">Hello first fragment</string>
+    <string name="hello_second_fragment">Hello second fragment. Arg: %1$s</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="title_activity_maps2">MapsActivity2</string>
+    <string name="contact_us_number_whats_up">+966566155674</string>
+
+
+</resources>
